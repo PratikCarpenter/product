@@ -4,5 +4,5 @@ void main()
     printf("enter the value of a and b");
    scanf("%d%d",&a,&b);
    sum=a+b;
-   printf("SUM of A and B%d ", sum);
+   printf("SUM of A and B ..%d ", sum);
 }
